@@ -2,7 +2,7 @@
     "name": "lover",
     "displayName": "lover",
     "description": "A set of low-contrast themes for VS Code",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "jacobparis",
     "engines": {
         "vscode": "^1.45.0"
@@ -22,7 +22,6 @@
                 "uiTheme": "vs-dark",
                 "path": "./themes/lover-dark.json"
             }
-
         ]
     }
 }
