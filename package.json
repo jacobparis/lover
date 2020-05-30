@@ -2,7 +2,7 @@
     "name": "lover",
     "displayName": "lover",
     "description": "A set of low-contrast themes for VS Code",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "jacobparis",
     "repository": {
         "type": "git",
