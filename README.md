@@ -11,6 +11,11 @@ You can install [Lover on the VS Code Marketplace](https://marketplace.visualstu
 ![Screen Shot 2020-05-30 at 1 01 31 PM](https://user-images.githubusercontent.com/5633704/83334649-ee3bef00-a275-11ea-8fc2-470c63e8459d.png)
 ![Screen Shot 2020-05-30 at 12 43 28 AM](https://user-images.githubusercontent.com/5633704/83334650-ee3bef00-a275-11ea-986d-1bb34054c54d.png)
 
+![Screen Shot 2020-05-30 at 1 16 00 PM](https://user-images.githubusercontent.com/5633704/83334973-ee3cee80-a277-11ea-86b3-afb0ab7e6c51.png)
+![Screen Shot 2020-05-30 at 1 16 48 PM](https://user-images.githubusercontent.com/5633704/83334975-ef6e1b80-a277-11ea-8cb9-a52bf02c1b4a.png)
+![Screen Shot 2020-05-30 at 1 17 02 PM](https://user-images.githubusercontent.com/5633704/83334976-f006b200-a277-11ea-9cd1-a9ad47677c73.png)
+
+
 # Contribution
 
 I work primarily in React and Vue so issues relating to non-web code or other frameworks are very likely. Feel free to file an issue or pull request with any suggestions or improvements 🙏
