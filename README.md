@@ -4,6 +4,7 @@ Lover is a low-contrast theme for VS Code, available in light and dark modes.
 
 Prior to my developer career I was a welder, which is great for building cool things and not so great on the skin, nose, ears, and eyes. Since then eyes have developed a bit of sensitivity to bright lights and vibrant changes of contrast. This theme is designed to be much milder on the eyes with a dark theme for normal use and a light theme for reduced glare when outdoors.
 
+You can install [Lover on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=jacobparis.lover)
 # Screenshots
 
 ![Screen Shot 2020-05-30 at 1 00 02 PM](https://user-images.githubusercontent.com/5633704/83334648-eda35880-a275-11ea-9fa1-46fff86a5075.png)
