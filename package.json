@@ -1,0 +1,28 @@
+{
+    "name": "lover",
+    "displayName": "lover",
+    "description": "A set of low-contrast themes for VS Code",
+    "version": "0.0.1",
+    "publisher": "jacobparis",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Lover Light",
+                "uiTheme": "vs",
+                "path": "./themes/lover-light.json"
+            },
+            {
+                "label": "Lover Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lover-dark.json"
+            }
+
+        ]
+    }
+}
