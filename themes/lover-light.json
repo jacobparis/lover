@@ -49,7 +49,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#1988d3"
+				"foreground": "#89bbff"
 			}
 		},
 		{
@@ -311,7 +311,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#8844aa"
 			}
 		},
 		{
@@ -361,7 +361,7 @@
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ff4a00"
 			}
 		},
 		{
@@ -371,7 +371,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#445566"
 			}
 		},
 		{
