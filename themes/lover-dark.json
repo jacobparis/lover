@@ -50,7 +50,9 @@
 			"scope": [
 				"variable",
 				"string constant.other.placeholder",
-				"punctuation.separator.key-value"
+				"punctuation.separator.key-value",
+				"punctuation.separator.comma",
+				"meta.brace"
 			],
 			"settings": {
 				"foreground": "#EEFFFF"
