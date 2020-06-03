@@ -11,6 +11,7 @@
 		"list.inactiveSelectionBackground": "#35435f",
 		"breadcrumb.background": "#35435f",
 		"input.background": "#35435f",
+		"statusBar.noFolderBackground": "#35435f",
 
 		"list.hoverBackground": "#25334f",
 		"editorGutter.background": "#25334f",
@@ -31,7 +32,9 @@
 		"sideBarTitle.foreground": "#bbbbbb",
 
 		"diffEditor.removedTextBackground": "#96315e56",
-		"diffEditor.insertedTextBackground": "#42884b56"
+		"diffEditor.insertedTextBackground": "#42884b56",
+
+		"statusBar.debuggingBackground": "#164f7c"
 	},
 	"tokenColors": [
 		{
