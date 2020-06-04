@@ -27,6 +27,7 @@
 		"statusBar.background": "#1e263a",
 		"tab.hoverBackground": "#25334f",
 		"tab.inactiveBackground": "#1e263a",
+		"editorGroupHeader.tabsBackground": "#1e263a",
 		"editorWidget.background": "#1e263a",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb",

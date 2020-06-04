@@ -10,3 +10,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Add Markdown Support
 - Set status bar blue when debugging
 - Set status bar transparent when no folder
+- Set tab background to match sidebar background
